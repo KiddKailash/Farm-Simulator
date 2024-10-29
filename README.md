@@ -53,15 +53,15 @@ Farm Game is a lightweight farming simulation game where players can plant, harv
    python farm_game.py
 
 ## Controls
-**W**: Move Up
-**A:** Move Left
-**S:** Move Down
-**D:** Move Right
-**T:** Till the soil
-**P:** Plant seeds
-**H:** Harvest crops
-**R:** Remove plants
-**Q:** Quit the game
+- **W**: Move Up
+- **A:** Move Left
+- **S:** Move Down
+- **D:** Move Right
+- **T:** Till the soil
+- **P:** Plant seeds
+- **H:** Harvest crops
+- **R:** Remove plants
+- **Q:** Quit the game
 
-**Action Keys:**
+### Action Keys:
 The appropriate action is triggered based on the player’s context on the farm grid (e.g., Plant when standing on tilled soil).
